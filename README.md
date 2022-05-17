@@ -4,3 +4,5 @@ Arduino Script written to be used with a Linux OS (Kalilinux in my case) that wo
 waves of about 135mHz and clone for creation of multiple access cards and key.
 
 Not used commercially, just a project
+References 
+Tom Clemente & Miguel Arsinio
